@@ -1,0 +1,2 @@
+Esta línea es original de este fichero
+Esta es una linea añadida al fichero
