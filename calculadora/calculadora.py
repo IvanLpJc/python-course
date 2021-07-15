@@ -99,6 +99,4 @@ button_division = Button(window, text='/', width=width, height=height, command=l
 button_division.grid(row=4, column=2, pady=5, padx=5)
 button_equal = Button(window, text='=', width=width, height=height, command=lambda:calcular())
 button_equal.grid(row=4, column=3, pady=5, padx=5)
-
-
 window.mainloop()
